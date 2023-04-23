@@ -1,0 +1,17 @@
+{
+	"name": "openx",
+	"version": "1.0.0",
+	"description": "",
+	"main": "task2.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "jest tests"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest-fetch-mock": "^3.0.3"
+	}
+}
